@@ -1,7 +1,7 @@
 """
 The ants module implements game logic for Ants Vs. SomeBees.
 Name: Alexander Chu and Romi Phadte
-Login: cs61a-du
+Login: cs61a-du cs61a-ef
 TA: Joy Jeng
 Section: 023
 """
